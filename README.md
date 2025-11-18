@@ -1,4 +1,4 @@
-## OLá! Eu me chamo Matheus Lima
+## Olá! Eu me chamo Matheus Lima
 
 - 🔭  Atualmente trabalhando como administrador
 - 🌱 Estudando Python
